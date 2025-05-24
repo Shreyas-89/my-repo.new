@@ -1,2 +1,2 @@
 # my-repo.new
-this is my Github Repository with new function 
+This is my Github Repository with new function 
